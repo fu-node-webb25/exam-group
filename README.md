@@ -77,6 +77,7 @@ Alla i gruppen lämnar in en **länk till ert gemensamma GitHub-repo** på Azomo
 - Att bjuda in mig till ert repo
 - Att dela er projekttavla med mig
 - Att skapa en User till mig, samt ge mig Network Access till er databas. Min IP-adress: **2.248.92.11**
-- Lägga in era kompletta connection strings både för Compass och Drivers i kommentarerna för er inlämning. **Glöm inte** att fylla i mina inloggningsuppgifter i er connection string. 
+- Lägga in era kompletta connection strings både för Compass och Drivers i kommentarerna för er inlämning. **Glöm inte** att fylla i mina inloggningsuppgifter i er connection string.
+- Använd följande "nycklar" i er .env-fil så att jag slipper leta i er kod: ```PORT``` & ```CONNECTION_STRING```
 
 ---
